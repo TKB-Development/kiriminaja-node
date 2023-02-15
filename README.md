@@ -17,7 +17,7 @@
 - [ ] Payment QRIS (Untuk mendapatkan token.)
 - [ ] Shipping Label (Untuk setiap paket yang dikirimkan melalui ekspedisi platform kiriminaja.)
 
-#### Cancellation, Tracking, and Settings
-- [ ] Cancel Shipment (Pembatalan paket yang sedang dalam proses menunggu pickup / menunggu diantar.)
-- [ ] Live Tracking (Data tracking diambil Kiriminaja dan pihak expedisi yang digabungkan menjadi satu.)
-- [ ] Set Whitelist Services (Atur layanan yang ditampilkan pada akun.)
+#### Cancellation, Tracking, and Preference
+- [X] Cancel Shipment (Pembatalan paket yang sedang dalam proses menunggu pickup / menunggu diantar.)
+- [X] Live Tracking (Data tracking diambil Kiriminaja dan pihak expedisi yang digabungkan menjadi satu.)
+- [X] Set Whitelist Services (Atur layanan yang ditampilkan pada akun.)
