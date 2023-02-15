@@ -3,10 +3,10 @@
 ## Roadmap
 
 #### Coverage Area
-- [ ] Provinsi (Daftar wilayah yang dibuka ke seluruh ekspedisi.)
-- [ ] Kota / Kabupaten (Daftar kabupaten / kota yang tercover oleh kiriminaja.)
-- [ ] Kecamatan (Kecamatan yang dibuka untuk seluruh ekspedisi, dukungan penjemputan dan cashless akan sering berubah-ubah.)
-- [ ] Kecamatan by Name (Daftar kecamatan dengan pencarian langsung dengan nama. Kiriminaja membatasi request atau akan melakukan suspend API call sementara waktu.)
+- [X] Provinsi (Daftar wilayah yang dibuka ke seluruh ekspedisi.)
+- [X] Kota / Kabupaten (Daftar kabupaten / kota yang tercover oleh kiriminaja.)
+- [X] Kecamatan (Kecamatan yang dibuka untuk seluruh ekspedisi, dukungan penjemputan dan cashless akan sering berubah-ubah.)
+- [X] Kecamatan by Name (Daftar kecamatan dengan pencarian langsung dengan nama. Kiriminaja membatasi request atau akan melakukan suspend API call sementara waktu.)
 
 #### Pricing
 - [ ] Service List (Daftar kurir yang tersedia, mode staging dan production akan menjadi perbedaan.)
