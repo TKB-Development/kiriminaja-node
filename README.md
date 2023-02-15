@@ -9,8 +9,7 @@
 - [X] Kecamatan by Name (Daftar kecamatan dengan pencarian langsung dengan nama. Kiriminaja membatasi request atau akan melakukan suspend API call sementara waktu.)
 
 #### Pricing
-- [ ] Service List (Daftar kurir yang tersedia, mode staging dan production akan menjadi perbedaan.)
-- [ ] Shipping Price (Mencari harga terbaik dari bermacam ekspedisi.)
+- [X] Shipping Price (Mencari harga terbaik dari bermacam ekspedisi.)
 
 #### Pickup
 - [ ] Schedules (Jadwal penjemputan paket, abaikan untuk paket drop-off.)

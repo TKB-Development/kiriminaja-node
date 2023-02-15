@@ -1,5 +1,6 @@
 const Errors = require('./errors');
 const { CoverageArea } = require('./coverage_area');
+const { Pricing } = require('./pricing');
 
 function Kiriminaja(options) {
   let {
@@ -13,6 +14,7 @@ function Kiriminaja(options) {
   this.opts = { apiKey, baseURL };
 
   this.CoverageArea = CoverageArea._constructorWithOpts(this.opts);
+  this.Pricing = Pricing._constructorWithOpts(this.opts);
 }
 
 Kiriminaja.Errors = Errors;
