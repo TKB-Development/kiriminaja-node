@@ -12,10 +12,9 @@
 - [X] Shipping Price (Mencari harga terbaik dari bermacam ekspedisi.)
 
 #### Pickup
-- [ ] Schedules (Jadwal penjemputan paket, abaikan untuk paket drop-off.)
-- [ ] Pickup Request (Untuk melakukan permintaan pickup.)
-- [ ] Payment QRIS (Untuk mendapatkan token.)
-- [ ] Shipping Label (Untuk setiap paket yang dikirimkan melalui ekspedisi platform kiriminaja.)
+- [X] Schedules (Jadwal penjemputan paket, abaikan untuk paket drop-off.)
+- [X] Pickup Request (Untuk melakukan permintaan pickup.)
+- [X] Payment QRIS (Untuk mendapatkan token.)
 
 #### Cancellation, Tracking, and Preference
 - [X] Cancel Shipment (Pembatalan paket yang sedang dalam proses menunggu pickup / menunggu diantar.)

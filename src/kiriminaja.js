@@ -1,6 +1,7 @@
 const Errors = require('./errors');
 const { CoverageArea } = require('./coverage_area');
 const { Pricing } = require('./pricing');
+const { Pickup } = require('./pickup');
 const { Preference } = require('./preference');
 const { Cancellation } = require('./cancellation');
 const { Tracking } = require('./tracking');
@@ -18,6 +19,7 @@ function Kiriminaja(options) {
 
   this.CoverageArea = CoverageArea._constructorWithOpts(this.opts);
   this.Pricing = Pricing._constructorWithOpts(this.opts);
+  this.Pickup = Pickup._constructorWithOpts(this.opts);
   this.Preference = Preference._constructorWithOpts(this.opts);
   this.Cancellation = Cancellation._constructorWithOpts(this.opts);
   this.Tracking = Tracking._constructorWithOpts(this.opts);
